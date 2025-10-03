@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Alan+Sans&display=swap');
+
+.text-blue {
+  color: #ac6c30 !important; /* bootstrap blue */
+}
+
+.hover-dark:hover {
+  color: black !important;
+}
+/* Custom brown button with light opacity */
+.btn-brown {
+  color: #5a3e2b;              /* brown text */
+  border: 1px solid #88593a;   /* brown border */
+  background-color: rgba(139, 69, 19, 0.1); /* light brown background with opacity */
+  transition: all 0.3s ease;
+}
+
+.btn-brown:hover {
+  background-color: #ac6c30;  /* solid brown on hover */
+  color: white !important;
+}
+.card {
+  width: 18rem;
+}
+
+h2 {
+  font-family: 'Alan Sans', sans-serif;
+  text-align: center;
+}
+.navbar {
+  font-family: 'Alan Sans', sans-serif;
+}
+.btn-brown {
+  background-color: #ac6c30;
+  border-color: brown;
+  color: white;
+}
+.btn-brown {
+  background-color: #ac6c30;
+  border-color: brown;
+  color: white;
+  transition: all 0.3s ease;
+}
+
+.btn-brown:hover {
+  background-color: #88593a;
+  color: white;
+}
